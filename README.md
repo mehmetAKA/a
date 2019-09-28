@@ -1,2 +1,0 @@
-# a
-Bir nevi lazımlık
